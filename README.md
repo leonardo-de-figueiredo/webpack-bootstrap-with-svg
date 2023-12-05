@@ -2,15 +2,11 @@
 
 Include [Bootstrap](https://getbootstrap.com)'s source Sass and individual JavaScript plugins with [Webpack](https://webpack.js.org).
 
-## Edit in browser
-
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/twbs/examples/tree/main/webpack?file=src%2Findex.html)
-
+Based on the original version from here: https://github.com/twbs/examples/tree/main/webpack
+I just deleted some unnecessary code and added the svg icons in webpack.config.js
 ## How to use
 
 ```sh
-git clone https://github.com/twbs/examples.git
-cd examples/webpack/
 npm install
 npm start
 ```
